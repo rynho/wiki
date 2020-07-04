@@ -343,7 +343,7 @@ dumps don't match, do a new dump and check again.
 
   - Install **Python 2.7 (32bit\!)** with the default settings :
 
-![H-Slim7.png](H-Slim7.png "H-Slim7.png") ![H-Slim8.png](H-Slim8.png
+![H-Slim7.png](images/H-Slim7.png "H-Slim7.png") ![H-Slim8.png](H-Slim8.png
 "H-Slim8.png") ![H-Slim9.png](H-Slim9.png "H-Slim9.png")
 ![H-Slim10.png](H-Slim10.png "H-Slim10.png")
 
